@@ -46,7 +46,4 @@ Contributions are welcome! If you'd like to contribute to TaskPro, please follow
 ## License
 This project is licensed under MIT License - See the LICENSE filed file for details.
 
-## Contact
-If you have any questions or suggestion, feel free to conteact me at [Linkedin](https://www.linkedin.com/in/shreyas-sihasane-441b95238?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bq3Hng%2B8BTTePQ1EBQmJmCA%3D%3D).
-
 Happy task managing with TaskPro!
